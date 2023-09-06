@@ -21,40 +21,28 @@ const About = () => (
             className={style.link}
             rel="noreferrer"
           >
-            Kaung Myat Kyaw (Barry)
+            James Carter
           </a>
           {' '}
-          and I am a passionate software engineer specializing in delivering
-          state-of-the-art software solutions in React and Ruby on Rails. I love
-          Math, Coding, Movies, and all kinds of Music.
+          I am a web developer with [Number of years] years of experience in the industry.
         </p>
         <p className={style.text}>
-          My journey into the world of software development has been both unique
-          and transformative. Before transitioning to this career, I was a
-          third-year student at Maritime University. However, due to the
-          COVID-19 outbreak and the political situation in my country, I decided
-          to drop out and explore my true passion.
+        I have a strong passion for creating beautiful and functional websites and web applications. I specialize in both front-end and back-end development, with expertise in programming languages such as HTML, CSS, JavaScript, PHP, and SQL.
+
         </p>
         <p className={style.text}>
-          What truly set my path apart was my decision to join Microverse, a
-          remote software development school. There, I immersed myself in pair
-          programming and real-world projects, mastering the skills required to
-          thrive in this dynamic field. I completed the boot camp without a
-          hitch, showcasing my dedication and determination to succeed. My
-          commitment to the tech community is reflected in my
-          {' '}
-          <a
-            href="https://github.com/Rhaegar121"
-            target="_blank"
-            className={style.link}
-            rel="noreferrer"
-          >
-            {' '}
-            2500+ contributions on GitHub
-          </a>
-          {' '}
-          within a single year. Additionally, my roles in the Students&apos;
-          Union honed my problem-solving and communication abilities.
+        Throughout my career, I have had the opportunity to work on a variety of projects for clients in various industries, including e-commerce, healthcare, and education. I take pride in my ability to understand my clients' needs and create custom solutions that meet their specific requirements.
+
+        </p>
+
+        <p className={style.text}>
+        In addition to my technical skills, I am a creative problem-solver and a team player. I enjoy collaborating with designers, project managers, and other developers to bring projects to life.
+
+        </p>
+
+        <p className={style.text}>
+        When I'm not coding, you can find me exploring new technologies and attending tech meetups and conferences. I am constantly learning and growing as a developer, and I look forward to bringing my skills and passion to your next project.
+
         </p>
       </motion.div>
       <motion.div

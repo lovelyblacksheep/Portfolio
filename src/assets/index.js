@@ -22,6 +22,15 @@ import spacetravelers from './projects/spacetravelers.png';
 import recipeapp from './projects/recipeapp.png';
 import trackbudget from './projects/trackbudget.png';
 import carrental from './projects/carrental.png';
+import danai from './projects/danai.png';
+import mining from './projects/mining.png';
+import travel from './projects/travel.png';
+import uConnected from './projects/uConnected.png';
+import sport from './projects/sport.png';
+import portfolio from './projects/portfolio.png';
+import dashboard from './projects/dashboard.png';
+import exercise from './projects/exercise.png';
+import gallery from './projects/gallery.png';
 
 // carousel img
 import guesstheword1 from './carousels/guess the word screenshot 1.png';
@@ -54,5 +63,6 @@ import react from './services/react.gif';
 import fullstack from './services/fullstack.gif';
 
 export {
-  logo, facebook, instagram, github, linkedin, twitter, facebook1, instagram1, github1, twitter1, linkedin1, tvshowbox, guesstheword, tictactoe, mathmagician, metricwebapp, spacetravelers, recipeapp, trackbudget, carrental, guesstheword1, guesstheword2, guesstheword3, spacetravelers1, spacetravelers2, spacetravelers3, tictactoe1, tictactoe2, tictactoe3, tvshow1, tvshow2, tvshow3, metricswebapp1, metricswebapp2, recipeapp3, recipeapp4, recipeapp6, trackbuget1, trackbuget2, trackbuget5, carrental3, carrental4, carrental6, responsive, react, fullstack,
+  logo, facebook, instagram, github, linkedin, twitter, facebook1, instagram1, github1, twitter1, linkedin1, tvshowbox, guesstheword, tictactoe, mathmagician, metricwebapp, spacetravelers, recipeapp, trackbudget, carrental, guesstheword1, guesstheword2, guesstheword3, spacetravelers1, spacetravelers2, spacetravelers3, tictactoe1, tictactoe2, tictactoe3, tvshow1, tvshow2, tvshow3, metricswebapp1, metricswebapp2, recipeapp3, recipeapp4, recipeapp6, trackbuget1, trackbuget2, trackbuget5, carrental3, carrental4, carrental6, responsive, react, fullstack, danai, mining, travel, uConnected, sport,
+  portfolio, dashboard, gallery, exercise
 };

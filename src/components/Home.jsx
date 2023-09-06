@@ -16,7 +16,7 @@ const Home = () => (
         Hi, I&apos;m
         {' '}
         <motion.span variants={fadeIn('', '', 0.1, 1)} className={style.name}>
-          Kaung Myat Kyaw
+          James Carter
         </motion.span>
       </p>
       <p className={style.intro}>

@@ -34,7 +34,12 @@ const Work = () => {
             index={index}
             className={style.card}
           >
-            <img className={style.img} src={project.img} alt="project sample" loading="lazy" />
+            {
+              project.id !== '10' ?
+                <img className={style.img} src={project.img} alt="project sample" loading="lazy" />
+                :
+                <img className={style.img-10} src={project.img} alt="project sample" loading="lazy" />
+            }
             <div className={style.card_overlay}>
               <div className={style.card_text}>
                 <div className={style.text}>
@@ -45,10 +50,10 @@ const Work = () => {
                     ))}
                   </p>
                 </div>
-                <button type="button" className={style.btn_container} onClick={() => handlePopupClick(project)}>
-                  <span className={style.btn_hover}>Learn more</span>
-                  <span className={style.btn}>Learn more</span>
-                </button>
+                <a href={project.live_link} target="_blank" className={`${style.live_link} ${style.btn_container}`} rel="noreferrer">
+                  <span className={style.btn_hover}>View Live</span>
+                  <span className={style.btn}>View Live</span>
+                </a>
               </div>
             </div>
           </motion.div>

@@ -31,6 +31,9 @@ import portfolio from './projects/portfolio.png';
 import dashboard from './projects/dashboard.png';
 import exercise from './projects/exercise.png';
 import gallery from './projects/gallery.png';
+import game from './projects/game.png';
+import ai from './projects/ai.png';
+import mobile from './projects/mobile.png';
 
 // carousel img
 import guesstheword1 from './carousels/guess the word screenshot 1.png';
@@ -64,5 +67,5 @@ import fullstack from './services/fullstack.gif';
 
 export {
   logo, facebook, instagram, github, linkedin, twitter, facebook1, instagram1, github1, twitter1, linkedin1, tvshowbox, guesstheword, tictactoe, mathmagician, metricwebapp, spacetravelers, recipeapp, trackbudget, carrental, guesstheword1, guesstheword2, guesstheword3, spacetravelers1, spacetravelers2, spacetravelers3, tictactoe1, tictactoe2, tictactoe3, tvshow1, tvshow2, tvshow3, metricswebapp1, metricswebapp2, recipeapp3, recipeapp4, recipeapp6, trackbuget1, trackbuget2, trackbuget5, carrental3, carrental4, carrental6, responsive, react, fullstack, danai, mining, travel, uConnected, sport,
-  portfolio, dashboard, gallery, exercise
+  portfolio, dashboard, gallery, exercise, game, ai, mobile
 };

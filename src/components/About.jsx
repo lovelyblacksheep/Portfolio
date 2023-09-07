@@ -3,7 +3,7 @@ import { motion } from 'framer-motion';
 import SectionWrapper from '../hoc';
 import style from './styles/about.module.css';
 import { textVariant, slideIn } from '../utils/motion';
-import mypicture from '../assets/mypicture.jpg';
+import mypicture from '../assets/me.jpg';
 
 const About = () => (
   <>
@@ -16,15 +16,15 @@ const About = () => (
           My name is
           {' '}
           <a
-            href="https://www.linkedin.com/in/kaungmyatkyaw/"
-            target="_blank"
+            href="#"
+            target="_self"
             className={style.link}
             rel="noreferrer"
           >
             James Carter
           </a>
           {' '}
-          I am a web developer with [Number of years] years of experience in the industry.
+          I am a web developer with 10 years of experience in the IT industry.
         </p>
         <p className={style.text}>
         I have a strong passion for creating beautiful and functional websites and web applications. I specialize in both front-end and back-end development, with expertise in programming languages such as HTML, CSS, JavaScript, PHP, and SQL.
@@ -50,7 +50,7 @@ const About = () => (
         className={style.img_container}
       >
         <div className={style.overlay} />
-        <img className={style.img} src={mypicture} alt="Kaung Myat Kyaw" loading="lazy" />
+        <img className={style.img} src={mypicture} alt="James Carter" loading="lazy" />
       </motion.div>
     </div>
   </>

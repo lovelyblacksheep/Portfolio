@@ -72,13 +72,7 @@
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Kaung Myat Kyaw**
-
-- GitHub: [GitHub](https://github.com/Rhaegar121)
-- Twitter: [Twitter](https://twitter.com/Rhaegar121)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/kaungmyatkyaw/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+👤 **James Carter**
 
 <!-- FUTURE FEATURES -->
 

@@ -50,7 +50,7 @@ const About = () => (
         className={style.img_container}
       >
         <div className={style.overlay} />
-        <img className={style.img} src={mypicture} alt="Kaung Myat Kyaw" loading="lazy" />
+        <img className={style.img} src={mypicture} alt="James Carter" loading="lazy" />
       </motion.div>
     </div>
   </>

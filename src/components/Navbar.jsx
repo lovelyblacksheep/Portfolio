@@ -41,7 +41,8 @@ const Navbar = () => {
             window.scrollTo(0, 0);
           }}
           whileHover={{ scale: 1.12, backgroundColor: '#020716', transition: { type: 'spring', damping: 20, stiffness: 300 } }}
-          className={style.logo_btn}
+          // className={style.logo_btn}
+          style={{maxWidth: '14rem'}}
         >
           <img src={logo} alt="My logo" className={style.logo} />
         </motion.button>

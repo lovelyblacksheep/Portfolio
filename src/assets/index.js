@@ -1,4 +1,4 @@
-import logo from './logo_1.png';
+import logo from './line-logo.png';
 
 // socials
 import facebook from './socials/facebook.png';
